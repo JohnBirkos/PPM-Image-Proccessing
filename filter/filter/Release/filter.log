@@ -1,0 +1,33 @@
+﻿  Filter.cpp
+  FilterBlur.cpp
+c:\users\giann\desktop\filter\filter\filterblur.cpp(20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\giann\desktop\filter\filter\filterblur.cpp(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\giann\desktop\filter\filter\filterblur.cpp(30): warning C4018: '<': signed/unsigned mismatch
+c:\users\giann\desktop\filter\filter\filterblur.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\giann\desktop\filter\filter\array.h(70): warning C4018: '<=': signed/unsigned mismatch
+  c:\users\giann\desktop\filter\filter\array.h(68): note: while compiling class template member function 'float &math::Array<float>::operator ()(int,int)'
+  c:\users\giann\desktop\filter\filter\filterblur.cpp(20): note: see reference to function template instantiation 'float &math::Array<float>::operator ()(int,int)' being compiled
+  c:\users\giann\desktop\filter\filter\filterblur.h(11): note: see reference to class template instantiation 'math::Array<float>' being compiled
+  FilterGamma.cpp
+c:\users\giann\desktop\filter\filter\filtergamma.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\giann\desktop\filter\filter\filtergamma.cpp(24): warning C4018: '<': signed/unsigned mismatch
+c:\users\giann\desktop\filter\filter\filtergamma.cpp(43): warning C4244: '=': conversion from 'double' to 'imaging::component_t', possible loss of data
+c:\users\giann\desktop\filter\filter\filtergamma.cpp(44): warning C4244: '=': conversion from 'double' to 'imaging::component_t', possible loss of data
+c:\users\giann\desktop\filter\filter\filtergamma.cpp(45): warning C4244: '=': conversion from 'double' to 'imaging::component_t', possible loss of data
+c:\users\giann\desktop\filter\filter\filtergamma.cpp(50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  FilterLinear.cpp
+c:\users\giann\desktop\filter\filter\filterlinear.cpp(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\giann\desktop\filter\filter\filterlinear.cpp(21): warning C4018: '<': signed/unsigned mismatch
+  Image.cpp
+c:\users\giann\desktop\filter\filter\image.cpp(121): warning C4018: '<': signed/unsigned mismatch
+c:\users\giann\desktop\filter\filter\image.cpp(151): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+c:\users\giann\desktop\filter\filter\main.cpp(82): warning C4101: 'y': unreferenced local variable
+c:\users\giann\desktop\filter\filter\array.h(70): warning C4018: '<=': signed/unsigned mismatch
+  c:\users\giann\desktop\filter\filter\array.h(68): note: while compiling class template member function 'float &math::Array<float>::operator ()(int,int)'
+  c:\users\giann\desktop\filter\filter\filterlaplace.h(33): note: see reference to function template instantiation 'float &math::Array<float>::operator ()(int,int)' being compiled
+  c:\users\giann\desktop\filter\filter\filterblur.h(11): note: see reference to class template instantiation 'math::Array<float>' being compiled
+  Generating code
+  All 1093 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  filter.vcxproj -> C:\Users\giann\Desktop\filter\Release\filter.exe

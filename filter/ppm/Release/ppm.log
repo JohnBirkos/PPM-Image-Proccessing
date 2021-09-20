@@ -1,0 +1,5 @@
+﻿  ppm.cpp
+c:\users\giann\desktop\filter\ppm\ppm.cpp(71): warning C4018: '<': signed/unsigned mismatch
+c:\users\giann\desktop\filter\ppm\ppm.cpp(106): warning C4018: '<': signed/unsigned mismatch
+c:\users\giann\desktop\filter\ppm\ppm.cpp(107): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  ppm.vcxproj -> C:\Users\giann\Desktop\filter\ppm\ppm.lib
